@@ -1,6 +1,6 @@
 {
   "name": "taro-wxios",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "http for taro",
   "main": "src/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liminshen/taro-wxios.git"
+    "url": "git+https://github.com/liminshen/taro-tool.git"
   },
   "keywords": [
     "taro",
@@ -23,9 +23,9 @@
   "author": "sam.li",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liminshen/taro-wxios/issues"
+    "url": "https://github.com/liminshen/taro-tool"
   },
-  "homepage": "https://github.com/liminshen/taro-wxios#readme",
+  "homepage": "https://github.com/liminshen/taro-tool/blob/master/packages/taro-wxios/README.md",
   "devDependencies": {
     "@babel/core": "^7.14.3",
     "@babel/plugin-proposal-class-properties": "^7.13.0",

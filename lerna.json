@@ -3,5 +3,12 @@
     "packages/*"
   ],
   "version": "1.0.0",
-  "npmClient": "yarn"
+  "npmClient": "yarn",
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "packages/taro-demo"
+      ]
+    }
+  }
 }

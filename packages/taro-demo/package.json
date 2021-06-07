@@ -49,7 +49,7 @@
     "nervjs": "^1.5.5",
     "nerv-devtools": "^1.5.5",
     "regenerator-runtime": "0.11.1",
-    "taro-wxios": "file:../taro-wxios"
+    "taro-wxios": "^0.2.4"
   },
   "devDependencies": {
     "@types/react": "^16.4.6",

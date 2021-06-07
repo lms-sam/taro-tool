@@ -12224,11 +12224,6 @@ taro-css-to-react-native@2.2.17:
     css-mediaquery "^0.1.2"
     postcss-value-parser "^3.3.0"
 
-"taro-wxios@file:../taro-wxios":
-  version "0.1.1"
-  dependencies:
-    "@tarojs/taro" "2.2.17"
-
 tcp-port-used@^1.0.1:
   version "1.0.2"
   resolved "https://registry.npmjs.org/tcp-port-used/-/tcp-port-used-1.0.2.tgz#9652b7436eb1f4cfae111c79b558a25769f6faea"

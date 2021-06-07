@@ -5,6 +5,8 @@ dist/
 .cache/
 .idea/
 
+yarn.lock
+
 
 
 # Log files
